@@ -1,0 +1,32 @@
+{
+  "name": "trakstarchallengenode",
+  "version": "1.0.0",
+  "description": "Backend for the trackstar challenge ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjp94/TrakstarChallengeNode.git"
+  },
+  "keywords": [
+    "trakstar",
+    "backend",
+    "node"
+  ],
+  "author": "Juan Pablo Salcedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrjp94/TrakstarChallengeNode/issues"
+  },
+  "homepage": "https://github.com/mrjp94/TrakstarChallengeNode#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
