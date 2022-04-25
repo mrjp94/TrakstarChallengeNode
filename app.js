@@ -15,10 +15,10 @@ app.use(cors(corsOptions))
 
 //Create connection
 const conn = mysql.createConnection({
-  host: 'localhost',
-  user: 'root',
-  password: 'admin',
-  database: 'trackstarproducts'
+  host: 'sql3.freemysqlhosting.net',
+  user: 'sql3488022',
+  password: 'fAsK4k1jer',
+  database: 'sql3488022'
 });
  
 //connect to database
